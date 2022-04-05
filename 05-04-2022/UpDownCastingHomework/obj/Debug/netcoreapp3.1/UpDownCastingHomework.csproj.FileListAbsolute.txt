@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\UpDownCastingHomework\UpDownCastingHomework\obj\Debug\netcoreapp3.1\UpDownCastingHomework.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\UpDownCastingHomework\UpDownCastingHomework\obj\Debug\netcoreapp3.1\UpDownCastingHomework.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\UpDownCastingHomework\UpDownCastingHomework\obj\Debug\netcoreapp3.1\UpDownCastingHomework.AssemblyInfo.cs
+C:\Users\Asus\source\repos\UpDownCastingHomework\UpDownCastingHomework\obj\Debug\netcoreapp3.1\UpDownCastingHomework.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\UpDownCastingHomework\UpDownCastingHomework\bin\Debug\netcoreapp3.1\UpDownCastingHomework.exe
+C:\Users\Asus\source\repos\UpDownCastingHomework\UpDownCastingHomework\bin\Debug\netcoreapp3.1\UpDownCastingHomework.deps.json
+C:\Users\Asus\source\repos\UpDownCastingHomework\UpDownCastingHomework\bin\Debug\netcoreapp3.1\UpDownCastingHomework.runtimeconfig.json
+C:\Users\Asus\source\repos\UpDownCastingHomework\UpDownCastingHomework\bin\Debug\netcoreapp3.1\UpDownCastingHomework.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\UpDownCastingHomework\UpDownCastingHomework\bin\Debug\netcoreapp3.1\UpDownCastingHomework.dll
+C:\Users\Asus\source\repos\UpDownCastingHomework\UpDownCastingHomework\bin\Debug\netcoreapp3.1\UpDownCastingHomework.pdb
+C:\Users\Asus\source\repos\UpDownCastingHomework\UpDownCastingHomework\obj\Debug\netcoreapp3.1\UpDownCastingHomework.dll
+C:\Users\Asus\source\repos\UpDownCastingHomework\UpDownCastingHomework\obj\Debug\netcoreapp3.1\UpDownCastingHomework.pdb
+C:\Users\Asus\source\repos\UpDownCastingHomework\UpDownCastingHomework\obj\Debug\netcoreapp3.1\UpDownCastingHomework.genruntimeconfig.cache
